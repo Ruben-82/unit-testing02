@@ -1,6 +1,8 @@
 export function circle(radio: number){
-    let Pi = 3.1416;
-    let area;
+    
+	let Pi = 3.1416;
+        let area;
+   
     if(radio == 1 || radio < 0){
         if(radio == 1){
             area = Pi;
