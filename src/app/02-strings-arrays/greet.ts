@@ -1,3 +1,3 @@
-export fuction greet (){
-	return ();
+export fuction greet (name : String){
+	return ('Welcome' + name);
 }
