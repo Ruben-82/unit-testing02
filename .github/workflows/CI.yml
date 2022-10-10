@@ -3,9 +3,9 @@ name: CI Angular app through GitHub Actions
 
 on:
   push:
-    branches: [ "master"]
+    branches: [ "compute"]
   pull_request:
-    branches: [ "master"]
+    branches: [ "compute"]
 
 =======
 on:
